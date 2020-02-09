@@ -1,2 +1,2 @@
-# work-C_37
-work of class C37
+# synchronousBallMovement
+Ball moving synchronously
